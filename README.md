@@ -8,4 +8,4 @@
 # O que eu estou estudando?
 
 #### Atualmente eu tenho interesse em várias áreas da computação, mas estou focando na programação Backend no momento, aprendendo tecnologias como o Spring Framework, que é realmente uma "mão na roda" para construir aplicações e API's.
-### Também estou pensando em ficar por dentro da programação Frontend ( mesmo que não seja uma área que eu pretenda trabalhar, acho bom saber pelo menos o essencial ).
+#### Também estou pensando em ficar por dentro da programação Frontend ( mesmo que não seja uma área que eu pretenda trabalhar, acho bom saber pelo menos o essencial ).
