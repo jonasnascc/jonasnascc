@@ -1,7 +1,3 @@
-
-![Jonas Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnascc&show_icons=true&theme=synthwave) 
-
-
 ### Olá, eu sou Jonas! 😊
 
 ## Sobre mim 🤓
@@ -18,5 +14,3 @@ Estou desenvolvendo projetos com Spring Boot Framework, não tão complexos aind
 Também busco melhorar meu conhecimento com Bancos de Dados, tenho mais experiência com mySQL, porém estou buscando aprender outros assuntos também.
 Boas práticas pra mim são essenciais, por isso me interesso pelo assunto, alguma sugestão de livro pra me indicar? 🧐📚
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnascc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
