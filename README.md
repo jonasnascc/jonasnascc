@@ -1,19 +1,11 @@
-<div>
-<a href="https://github.com/jonasnascimento">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasnascimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnascimento&layout=compact&langs_count=7&theme=tokyonight"/>
+## Olá, eu sou Jonas! 😊
 
-</div>
+## Sobre mim 🤓
 
-# Olá! meu nome é Jonas.
+### Sou graduando em Engenharia de Computação pelo IFPB - Campina Grande/PB, e estou no 7º período. 
 
-#### Eu sou graduando em Engenharia de computação pelo IFPB de Campina Grande-PB / Brasil.
-#### Depois de trilhar um caminho sem disciplina ou ambições, eu decidi acordar pra vida e trilhar outro caminho, um caminho que o Eu do futuro se orgulhe, um caminho que me faça feliz.
-#### Ainda não entrei no mercado de trabalho, mas pretendo dar o meu melhor pra ser um colaborador dos sonhos de todas empresa.
+### Atualmente estou em busca de aumentar meu leque de conhecimento em tecnologia, mais precisamente em Backend ( o que não me faz deixar de cogitar aprender outros assuntos ).
 
+## O que estou aprendendo? ☝️
 
-# O que eu estou estudando?
-
-#### Atualmente eu tenho interesse em várias áreas da computação, mas estou focando na programação Backend no momento, aprendendo tecnologias como o Spring Framework, que é realmente uma "mão na roda" para construir aplicações e API's.
-#### Também estou pensando em ficar por dentro da programação Frontend ( mesmo que não seja uma área que eu pretenda trabalhar, acho bom saber pelo menos o essencial ).
-
+<img  width=50 height= 50 alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   <img width=50 height= 50 alt="Spring Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   <img  width=50 height= 50 alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />   <img width=50 height= 50 alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
