@@ -1,5 +1,8 @@
 ## Olá, eu sou Jonas! 😊
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnascc&show_icons=true&theme=radical)
+
+
 ## Sobre mim 🤓
 
 ### Sou graduando em Engenharia de Computação pelo IFPB - Campina Grande/PB, e estou no 7º período. 
