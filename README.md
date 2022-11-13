@@ -1,4 +1,4 @@
-### Olá, eu sou Jonas! 😊
+# Olá, eu sou Jonas! 😊
 
 ## Sobre mim 🤓
 
