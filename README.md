@@ -1,8 +1,8 @@
-## Olá, eu sou Jonas! 😊
 
 ![Jonas Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnascc&show_icons=true&theme=synthwave) 
 
 
+## Olá, eu sou Jonas! 😊
 
 ## Sobre mim 🤓
 
