@@ -1,4 +1,4 @@
-### Hi! Jonas here!
+## Hi there! Jonas here!
 
 #### My technologies
 <p>
